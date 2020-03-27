@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabSheet3</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
